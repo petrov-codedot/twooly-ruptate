@@ -1,0 +1,74 @@
+{
+  "tags": [
+    {
+      "name": 2021,
+      "value": 2021,
+      "make": [
+        {
+          "name": "Jeep",
+          "value": "jeep",
+          "model": [
+            {
+              "name": "GV80",
+              "value": "gv80"
+            },
+            {
+              "name": "XC40",
+              "value": "xc40"
+            }
+          ]
+        },
+        {
+          "name": "Ford",
+          "value": "ford",
+          "model": [
+            {
+              "name": "V60",
+              "value": "v60"
+            },
+            {
+              "name": "V60V2",
+              "value": "v60v2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 6949783470261,
+      "image": "https://example.com/img.jpg",
+      "name": "Product Name Jeep 1",
+      "available": true,
+      "vendor": "Cast Aluminum",
+      "price": 256.00
+    },
+    {
+      "id": 6949783470261,
+      "image": "https://example.com/img.jpg",
+      "name": "Product Name Jeep 2",
+      "available": true,
+      "vendor": "Cast Aluminum",
+      "price": 222.00
+    },
+    {
+      "id": 6949783470261,
+      "image": "https://example.com/img.jpg",
+      "name": "Product Name Ford 1",
+      "available": true,
+      "vendor": "Cast Aluminum",
+      "price": 222.00
+    },
+    {
+      "id": 6949783470261,
+      "image": "https://example.com/img.jpg",
+      "name": "Product Name Ford 2",
+      "available": true,
+      "vendor": "Cast Aluminum",
+      "price": 222.00
+    }
+  ],
+  "current_page": 1,
+  "count_page": 4
+}

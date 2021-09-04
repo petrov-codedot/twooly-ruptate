@@ -1,0 +1,32 @@
+{
+  "tags": [
+    {
+      "name": 2021,
+      "value": 2021,
+      "make": [
+        {
+          "name": "Jeep",
+          "value": "jeep",
+          "model": [
+            {
+              "name": "V60V2",
+              "value": "v60v2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 6949783470261,
+      "image": "https://example.com/img.jpg",
+      "name": "Product Name Ford 2",
+      "available": true,
+      "vendor": "Cast Aluminum",
+      "price": 222.00
+    }
+  ],
+  "current_page": 1,
+  "count_page": 4
+}

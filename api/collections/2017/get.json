@@ -1,0 +1,74 @@
+{
+  "tags": [
+    {
+      "name": 2017,
+      "value": 2017,
+      "make": [
+        {
+          "name": "Chevrolet",
+          "value": "chevrolet",
+          "model": [
+            {
+              "name": "Capri",
+              "value": "capri"
+            },
+            {
+              "name": "RVR",
+              "value": "rvr"
+            }
+          ]
+        },
+        {
+          "name": "Polaris",
+          "value": "polaris",
+          "model": [
+            {
+              "name": "Bronco",
+              "value": "bronco"
+            },
+            {
+              "name": "Tacoma",
+              "value": "tacoma"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 6949783470261,
+      "image": "https://example.com/img.jpg",
+      "name": "Product Name Chevrolet 1",
+      "available": true,
+      "vendor": "Cast Aluminum",
+      "price": 256.00
+    },
+    {
+      "id": 6949783470261,
+      "image": "https://example.com/img.jpg",
+      "name": "Product Name Chevrolet 2",
+      "available": true,
+      "vendor": "Cast Aluminum",
+      "price": 222.00
+    },
+    {
+      "id": 6949783470261,
+      "image": "https://example.com/img.jpg",
+      "name": "Product Polaris Ford 1",
+      "available": true,
+      "vendor": "Cast Aluminum",
+      "price": 222.00
+    },
+    {
+      "id": 6949783470261,
+      "image": "https://example.com/img.jpg",
+      "name": "Product Name Polaris 2",
+      "available": true,
+      "vendor": "Cast Aluminum",
+      "price": 222.00
+    }
+  ],
+  "current_page": 1,
+  "count_page": 4
+}

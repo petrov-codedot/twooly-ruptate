@@ -1,0 +1,44 @@
+{
+  "tags": [
+    {
+      "name": 2017,
+      "value": 2017,
+      "make": [
+        {
+          "name": "Polaris",
+          "value": "polaris",
+          "model": [
+            {
+              "name": "Bronco",
+              "value": "bronco"
+            },
+            {
+              "name": "Tacoma",
+              "value": "tacoma"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 6949783470261,
+      "image": "https://example.com/img.jpg",
+      "name": "Product Name Chevrolet 3",
+      "available": true,
+      "vendor": "Cast Aluminum",
+      "price": 222.00
+    },
+    {
+      "id": 6949783470261,
+      "image": "https://example.com/img.jpg",
+      "name": "Product Name Chevrolet 4",
+      "available": true,
+      "vendor": "Cast Aluminum",
+      "price": 222.00
+    }
+  ],
+  "current_page": 1,
+  "count_page": 4
+}
