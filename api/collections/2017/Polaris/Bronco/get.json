@@ -1,0 +1,32 @@
+{
+  "tags": [
+    {
+      "name": 2017,
+      "value": 2017,
+      "make": [
+        {
+          "name": "Polaris",
+          "value": "polaris",
+          "model": [
+            {
+              "name": "Bronco",
+              "value": "bronco"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 6949783470261,
+      "image": "https://example.com/img.jpg",
+      "name": "Product Name Polaris 1",
+      "available": true,
+      "vendor": "Cast Aluminum",
+      "price": 222.00
+    }
+  ],
+  "current_page": 1,
+  "count_page": 4
+}
